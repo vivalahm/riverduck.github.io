@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "리버덕의 코딩노트"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
+name                     : "리버덕"
 description              : "An amazing website."
 url                      : "https://vivalahm.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
